@@ -2,7 +2,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/PirateGamers)
 
 <p align="center">
 <img src="https://graph.org/file/f4aa6dc973c52a9c7547b.jpg">
